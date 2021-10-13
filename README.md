@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Fernanda</h1>
 <h3 align="center">A data science student passionate about learning and teaching. I am a web development instructor, trained in systems development looking to develop myself in the data area.</h3>
 
-- 🔭 I’m currently working on **Trybe.**
+🔭 I’m currently working on **Trybe.**
 
-- 🌱 I’m currently learning **Python for data science.**
+🌱 I’m currently learning **Python for data science.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nandaoc](https://github.com/Nandaoc)
+👨‍💻 All of my projects are available at [https://github.com/Nandaoc](https://github.com/Nandaoc)
 
-- 📝 I regularly write articles on [https://medium.com/@nandacarvalho99](https://medium.com/@nandacarvalho99)
+📝 I regularly write articles on [https://medium.com/@nandacarvalho99](https://medium.com/@nandacarvalho99)
 
-- 💬 Ask me about **Python, Java, JavaScript and active learning**
+💬 Ask me about **Python, Java, JavaScript and active learning**
 
-- 📫 How to reach me **nandaocarvalho11@gmail.com**
+📫 How to reach me **nandaocarvalho11@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fernandac-dev/](https://www.linkedin.com/in/fernandac-dev/)
+📄 Know about my experiences [https://www.linkedin.com/in/fernandac-dev/](https://www.linkedin.com/in/fernandac-dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandaoc&show_icons=true&locale=en&layout=compact" alt="nandaoc" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandaoc&label=Profile%20views&color=0e75b6&style=flat" alt="nandaoc" /> </p>
-
