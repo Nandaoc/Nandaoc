@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernanda!</h1>
-<h3 align="center">A data science student passionate about learning and teaching. I am a web development instructor, trained in systems development looking to develop myself in the data area.</h3>
+<h3 align="center">I am a Data Science student passionate about learning and teaching. I am a web development instructor, trained in systems development looking to develop myself in the data area.</h3>
 
 🔭 I’m currently working on **Trybe.**
 
