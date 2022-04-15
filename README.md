@@ -3,15 +3,15 @@
 
 🔭 I’m currently working on **Trybe.**
 
-🌱 I’m currently learning **Python for data science.**
+🌱 I’m currently learning **Python for Data Science.**
 
 👨‍💻 All of my projects are available at [https://github.com/Nandaoc](https://github.com/Nandaoc)
 
 📝 I regularly write articles on [https://medium.com/@nandacarvalho99](https://medium.com/@nandacarvalho99)
 
-💬 Ask me about **Python, Java, JavaScript and active learning**
+💬 Ask me about **Python, Data Science, Python Data Science Libraries, JavaScript and Active Learning**
 
-📫 How to reach me **nandaocarvalho11@gmail.com**
+📫 How to reach me **nandacarvalho99@gmail.com**
 
 📄 Know about my experiences [https://www.linkedin.com/in/fernandac-dev/](https://www.linkedin.com/in/fernandac-dev/)
 
