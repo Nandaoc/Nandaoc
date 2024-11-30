@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernanda!</h1>
-<h3 align="center">I am a Business Intelligence Analyst and a Data Science student passionate about data, learning and teaching.</h3>
+<h3 align="center">I am a Data Analyst and a Data Science student passionate about data, learning and teaching.</h3>
 
 🔭 I’m currently working on **Biomedical.**
 
