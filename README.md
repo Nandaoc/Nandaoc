@@ -9,7 +9,7 @@
 
 📝 I regularly write articles on [https://medium.com/@nandacarvalho99](https://medium.com/@nandacarvalho99)
 
-💬 Ask me about **Python, Data Science, Python Data Science Libraries, ETL/ELT, SQL**
+💬 Ask me about **Python, Data Science, ETL/ELT, SQL, Power BI, Data Analytics**
 
 📫 How to reach me **nandacarvalho99@gmail.com**
 
