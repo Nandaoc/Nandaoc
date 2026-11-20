@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernanda!</h1>
 <h3 align="center">I am a Data Analyst and a Data Science student passionate about data, learning and teaching.</h3>
 
-🔭 I’m currently working on **Biomedical.**
+🔭 I’m currently working on **Sólides.**
 
-🌱 I’m currently learning **Data Science.**
+🌱 I’m currently learning **Project Management & Agentic AI.**
 
 👨‍💻 All of my projects are available at [https://github.com/Nandaoc](https://github.com/Nandaoc)
 
